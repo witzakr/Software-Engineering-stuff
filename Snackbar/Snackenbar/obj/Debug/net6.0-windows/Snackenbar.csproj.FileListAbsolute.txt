@@ -1,0 +1,17 @@
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\bin\Debug\net6.0-windows\Snackenbar.exe
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\bin\Debug\net6.0-windows\Snackenbar.deps.json
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\bin\Debug\net6.0-windows\Snackenbar.runtimeconfig.json
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\bin\Debug\net6.0-windows\Snackenbar.dll
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\bin\Debug\net6.0-windows\Snackenbar.pdb
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.csproj.AssemblyReference.cache
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.Form1.resources
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.csproj.GenerateResource.cache
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.AssemblyInfoInputs.cache
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.AssemblyInfo.cs
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.csproj.CoreCompileInputs.cache
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.dll
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\refint\Snackenbar.dll
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.pdb
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\Snackenbar.genruntimeconfig.cache
+C:\Users\witza\source\repos\Snackenbar\Snackenbar\obj\Debug\net6.0-windows\ref\Snackenbar.dll

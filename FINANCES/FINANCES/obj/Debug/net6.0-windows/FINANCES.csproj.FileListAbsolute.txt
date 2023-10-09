@@ -1,0 +1,17 @@
+C:\Users\witza\source\repos\FINANCES\FINANCES\bin\Debug\net6.0-windows\FINANCES.exe
+C:\Users\witza\source\repos\FINANCES\FINANCES\bin\Debug\net6.0-windows\FINANCES.deps.json
+C:\Users\witza\source\repos\FINANCES\FINANCES\bin\Debug\net6.0-windows\FINANCES.runtimeconfig.json
+C:\Users\witza\source\repos\FINANCES\FINANCES\bin\Debug\net6.0-windows\FINANCES.dll
+C:\Users\witza\source\repos\FINANCES\FINANCES\bin\Debug\net6.0-windows\FINANCES.pdb
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.csproj.AssemblyReference.cache
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.Form1.resources
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.csproj.GenerateResource.cache
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.AssemblyInfoInputs.cache
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.AssemblyInfo.cs
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.csproj.CoreCompileInputs.cache
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.dll
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\refint\FINANCES.dll
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.pdb
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\FINANCES.genruntimeconfig.cache
+C:\Users\witza\source\repos\FINANCES\FINANCES\obj\Debug\net6.0-windows\ref\FINANCES.dll

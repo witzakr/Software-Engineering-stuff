@@ -1,0 +1,1 @@
+In order to make the new cars and employees appear in the comboboxes on trip tab, press Load in both Car tab and Employee tab.
